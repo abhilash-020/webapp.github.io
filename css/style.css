@@ -37,4 +37,6 @@ ul > li {
   }
   .card{
     margin: 0px 1000px 0px 30px;
+    width: max-content;
+    height: max-content;
   }
